@@ -1,53 +1,5 @@
 {
   "shows": {
-    "AMBH|118437|20260925|PLATINUM": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "03:45 PM",
-      "date": "20260925",
-      "cat": "PLATINUM",
-      "price": "350.00",
-      "status": "0"
-    },
-    "AMBH|118437|20260925|GOLD": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "03:45 PM",
-      "date": "20260925",
-      "cat": "GOLD",
-      "price": "295.00",
-      "status": "0"
-    },
-    "AMBH|118437|20260925|LOUNGERS": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "03:45 PM",
-      "date": "20260925",
-      "cat": "LOUNGERS",
-      "price": "295.00",
-      "status": "0"
-    },
-    "AMBH|118435|20260925|PLATINUM": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "10:40 PM",
-      "date": "20260925",
-      "cat": "PLATINUM",
-      "price": "350.00",
-      "status": "0"
-    },
-    "AMBH|118435|20260925|GOLD": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "10:40 PM",
-      "date": "20260925",
-      "cat": "GOLD",
-      "price": "295.00",
-      "status": "0"
-    },
-    "AMBH|118435|20260925|LOUNGERS": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "10:40 PM",
-      "date": "20260925",
-      "cat": "LOUNGERS",
-      "price": "295.00",
-      "status": "0"
-    },
     "AMBH|118504|20260926|PLATINUM": {
       "venue": "AMB Cinemas: Gachibowli",
       "time": "03:50 PM",
@@ -142,7 +94,7 @@
       "date": "20260927",
       "cat": "LOUNGERS",
       "price": "295.00",
-      "status": "3"
+      "status": "2"
     }
   },
   "dates": {
